@@ -5,79 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb3a0706-1c44-4cfd-8998-1c7943c2ab8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HomeWorkItMentor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/part_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/part_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/part_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/part_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/part_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/part_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_structure/tests/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/calculate_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/quadratic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/random_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/tests/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_exceptions_logging/try_except_rep_video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_for_while/average_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_for_while/factorials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_for_while/function_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_for_while/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_for_while/out_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_for_while/practice_zd_7-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_if_else/if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_if_else/switch_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_io_streams/bikes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_io_streams/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/ABC_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/Animals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/DOG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/MeansOfTransport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/TrackedAttributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/example_of_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/operator_overload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/people.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_OOP/sandbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/factory_boy/factories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/factory_boy/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/factory_boy/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/scr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/scr/main_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/scr/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/tests/test_main_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/fixture_test_project/tests/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/profiling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/roots/roots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/roots/test_roots_pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_testing/roots/test_roots_unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/profile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/profile/profile_task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/profile/profile_task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/profile/profile_task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/profile/profile_task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/scr/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/tests/test_task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/tests/tests_task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_asyncio/tests/tests_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_orm/app/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_orm/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_orm/app/crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_orm/app/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_orm/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_orm/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HomeWorkItMentor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HomeWorkItMentor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,9 +80,11 @@
     &quot;Python.binary_search.executor&quot;: &quot;Debug&quot;,
     &quot;Python.bubble_sort.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculate_average.executor&quot;: &quot;Run&quot;,
+    &quot;Python.config.executor&quot;: &quot;Run&quot;,
     &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
     &quot;Python.core.executor&quot;: &quot;Run&quot;,
     &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db.executor&quot;: &quot;Run&quot;,
     &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
     &quot;Python.factorials.executor&quot;: &quot;Run&quot;,
     &quot;Python.function_values.executor&quot;: &quot;Run&quot;,
@@ -188,7 +125,7 @@
     &quot;Python.work_file10.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/enlis666/PycharmProjects/HomeWorkItMentor/9_10_SQL/app/models_core&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/enlis666/PycharmProjects/HomeWorkItMentor/10_orm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.pyOptions&quot;
   }
@@ -201,14 +138,36 @@
       <recent name="$PROJECT_DIR$/5_io_streams" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10_orm/app" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/9_10_SQL/app" />
       <recent name="$PROJECT_DIR$/9_10_SQL/app/crud_core" />
       <recent name="$PROJECT_DIR$/9_10_SQL/app/models_orm" />
-      <recent name="$PROJECT_DIR$/9_10_SQL/scr" />
-      <recent name="$PROJECT_DIR$/9_10_SQL/queries" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_client.test_insert_client">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWorkItMentor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_orm/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_orm/app/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="core" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HomeWorkItMentor" />
       <option name="ENV_FILES" value="" />
@@ -231,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWorkItMentor" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +199,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_10_SQL/app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_orm/app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_10_SQL/app/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_orm/app/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="env" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HomeWorkItMentor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_orm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_orm/app/migrations/env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWorkItMentor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_orm/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_orm/app/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,21 +276,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_client.test_create_client" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="HomeWorkItMentor" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_10_SQL/app/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_client.test_create_client&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_client.test_delete_client" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -335,21 +323,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for tests.test_client.test_create_client" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="HomeWorkItMentor" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_10_SQL/app/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_client.test_create_client&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in test_task_1.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="HomeWorkItMentor" />
       <option name="ENV_FILES" value="" />
@@ -381,31 +354,32 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.config" />
       <item itemvalue="Python.core" />
+      <item itemvalue="Python.db" />
+      <item itemvalue="Python.env" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.tests (1)" />
-      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python tests.Python tests for test_client.test_delete_client" />
+      <item itemvalue="Python tests.Python tests for test_client.test_insert_client" />
       <item itemvalue="Python tests.Python tests for tests.test_binary_search" />
       <item itemvalue="Python tests.Python tests in test_task_1.py" />
       <item itemvalue="Python tests.Python tests in test_utils.py" />
-      <item itemvalue="Python tests.Python tests for test_client.test_create_client" />
-      <item itemvalue="Python tests.Python tests for test_client.test_delete_client" />
-      <item itemvalue="Python tests.Python tests for test_client.test_insert_client" />
-      <item itemvalue="Python tests.Python tests for tests.test_client.test_create_client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.db" />
         <item itemvalue="Python tests.Python tests for test_client.test_insert_client" />
         <item itemvalue="Python tests.Python tests for test_client.test_delete_client" />
-        <item itemvalue="Python tests.Python tests for test_client.test_create_client" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python tests.Python tests for tests.test_client.test_create_client" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -422,6 +396,7 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
